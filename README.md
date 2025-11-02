@@ -1,5 +1,5 @@
 Hello Human.
-Welcome to the Brazilian world of coding
+Welcome to the Brazilian world of coding.
 For safety reasons, I cast: BRAZIL!
 ⣿⣿⣿⣿⣿⣿⣿⡿⠿⡿⠛⠛⠻⠛⠋⠍⡉⢋⠙⠙⠛⠿⠛⠛⠻⠻⡿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠋⠋
 ⣿⡿⠿⠛⢉⠉⡀⠄⡐⢀⢂⣁⢂⡡⢌⡰⣀⠆⡌⢤⣁⢂⡌⡐⡠⠁⠄⠂⠄⡈⠠⢀⠉⢋⠉⡙⠻⠛⠛⠿⠿⢿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠟⠛⠛⢉⠁⠄⡐⠠⢁⠘
