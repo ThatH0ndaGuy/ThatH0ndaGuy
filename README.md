@@ -28,5 +28,3 @@ For safety reasons, I cast: BRAZIL!
 ⣆⣠⣼⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣷⣦⣤⣦⣴⣦⣤⣴⣤⣦⣤⣦⣥⣦⣤⣤⣾⣶⣾⣿⣿⣿⣿⣿⣿⣿
 
 I hope that I don't get banned for that.
-
-Currently making PotatOS.
